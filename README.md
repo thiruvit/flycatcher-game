@@ -2,7 +2,7 @@
 This Fly catcher game is all about game to catch the insects
 # About this project
 The Fly catcher game is a game to catch the insects,it is developed by using html,css,javascript.
-# Requiremnts
+# Requirements
 --Operating System- Above Windows 7
 
 --RAM-8 GB
